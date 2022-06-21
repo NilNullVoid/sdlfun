@@ -1,0 +1,1 @@
+.\\mingw\\bin\\cpp.exe -v .\\src\\*.cpp -o .\\build\\main.exe -Iinclude -Iheaders -Llib -lmingw32 -lSDL2main -lSDL2
